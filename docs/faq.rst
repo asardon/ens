@@ -45,7 +45,6 @@ Why is my reveal transaction failing?
 Confirm all the values you put in during the bid, and try using a blockchain explorer to confirm the state of the ENS auction.  These are situations that cause errors during the reveal transaction:
 
 * You never successfully bid
-* You're trying to reveal too early
 * The domain name is wrong
 * The amount is wrong
 * The secret phrase is wrong
